@@ -20,7 +20,7 @@ Copy or install this plugin and add the following keymap to your keymap.toml:
 ```toml
 [mgr]
 prepend_keymap = [
-	{on = "<C-y>", run = "plugin system-clipboard", desc = "Copy selected fiiles to system clipboard"}
+	{on = "<C-y>", run = "plugin system-clipboard", desc = "Copy selected files to system clipboard"}
 ]
 ```
 
